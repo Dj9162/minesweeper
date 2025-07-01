@@ -9,7 +9,6 @@ This project implements a fully functional Minesweeper game environment and demo
 ```bash
 git clone https://github.com/yourname/minesweeper-llm.git
 cd minesweeper-llm
-python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
