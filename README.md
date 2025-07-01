@@ -27,13 +27,13 @@ export GROQ_API_KEY=your-groq-api-key
 Play a single game using Groq (e.g., `gemma2-9b-it`):
 
 ```bash
-python play_with_groq.py
+python llm_groq_example.py
 ```
 
 Play with a local model (e.g., `Phi-3`):
 
 ```bash
-python play_with_local.py
+python llm_local_example.py
 ```
 
 ---
@@ -151,4 +151,4 @@ The response is parsed using regex and validated before applying.
 
 ## 📄 License
 
-MIT © Your Name, 2025
+MIT © Dhanraj Kumar, 2025
